@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /user/
+Disallow: /user-panel/
+Disallow: /history
+Disallow: /webtoon/bookmark
+Disallow: /privacy-policy
+Disallow: /tos
+Disallow: /contact-us
+Allow: /
+
+Sitemap: https://sayhentai.net/sitemap.xml

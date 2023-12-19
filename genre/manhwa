@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html lang="vi" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="google" content="notranslate">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Đọc truyện Hentai  Manhwa</title>
+<meta name="description" content="Đọc truyện tranh Hentai thể loại Manhwa update sớm nhất tại SayHentai, hình ảnh HD rõ nét, thể loại hay nhất!"/>
+<meta itemprop="image" content="https://sayhentai.fun/assets/images/logo.png"/>
+<!--Meta Facebook Page Other-->
+<meta property="og:type" content="website"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Đọc truyện Hentai  Manhwa Webtoon | SayHentai"/>
+<meta property="og:description" content="Manhwa are comics or graphic novels originating from Korea"/>
+<meta property="og:image" content="https://sayhentai.fun/assets/images/logo.png"/>
+<meta property="og:url" content="https://sayhentai.fun/genre/manhwa"/>
+<link rel="canonical" href="https://sayhentai.fun/genre/manhwa"/>
+
+    <meta name='robots' content='index, follow' />
+    <meta name="googlebot-news" content="index,follow" />
+    <link rel="stylesheet" href="/assets/css/style.css?id=b3043c8bdd81b5f5503c19a4db665805" type="text/css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120147319-3"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-120147319-3');
+</script>
+</head>
+<body>
+
+    <header class="site-header">
+    <div class="c-header__top">
+        <ul class="search-main-menu">
+            <li>
+                <form id="blog-post-search" class="ajax manga-search-form" action="https://sayhentai.fun/search" method="get">
+                    <input type="text" placeholder="Search..." name="s" value=""
+                        class="manga-search-field ui-autocomplete-input" autocomplete="off" required>
+                    <a href="javascript:void(0)" class="close-form-search"><i class="icon ion-md-close"></i></a>
+                    <button type="submit"><i class="icon ion-md-search"></i></button>
+                    <div class="loader-inner line-scale">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                    <div class="ui-menu" style="display: none;"></div>
+                </form>
+            </li>
+        </ul>
+        <div class="main-navigation style-1 ">
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="main-navigation_wrap">
+                            <div class="wrap_branding">
+                                <a class="logo" href="https://sayhentai.fun"
+                                    title="Truyện Hentai, Truyện Manhwa 18+ | SayHentai">
+                                                                            <img width="159" height="30" class="img-responsive"
+                                            src="https://sayhentai.fun/assets/images/logo.png"
+                                            alt="Truyện Hentai, Truyện Manhwa 18+ | SayHentai">
+                                                                    </a>
+                            </div>
+
+                            <div class="main-menu">
+                                <ul class="nav navbar-nav main-navbar">
+                                    <li>
+                                        <a href="https://sayhentai.fun/genre">Thể Loại</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://sayhentai.fun/completed">Hoàn Thành</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://sayhentai.fun/history">Lịch Sử</a>
+                                    </li>
+                                    <li>
+                                                                                    <a href="javascript:void(0)" data-toggle="modal"
+                                                data-target="#form-login">Đang theo dõi</a>
+                                                                            </li>
+                                                                            <li class="up-manga">
+                                            <a href="https://sayhentai.fun/user-panel" class="menu-link  main-menu-link"> Đăng
+                                                Truyện </a>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                            <label class="switch"> <input type="checkbox"> <span class="slider round"></span>
+                            </label>
+                            <div class="search-navigation search-sidebar">
+                                <ul class="main-menu-search nav-menu">
+                                    <li class="menu-search">
+                                        <a href="javascript:;" class="open-search-main-menu">
+                                            <i class="icon ion-md-search"></i>
+                                            <i class="icon ion-android-close"></i> </a>
+                                        <ul class="search-main-menu">
+                                            <li>
+                                                <form class="manga-search-form search-form ajax"
+                                                    action="https://sayhentai.fun/search" method="get">
+                                                    <input class="manga-search-field ui-autocomplete-input" type="text"
+                                                        placeholder="Search..." name="s" value="" autocomplete="off">
+                                                    <input type="hidden" name="post_type" value="wp-manga"> <i
+                                                        class="icon ion-ios-search"></i>
+                                                    <div class="loader-inner ball-clip-rotate-multiple">
+                                                        <div></div>
+                                                        <div></div>
+                                                    </div>
+                                                    <input type="submit" value="Search">
+                                                    <ul id="ui-id-2" tabindex="0"
+                                                        class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front"
+                                                        style="display: none;"></ul>
+                                                </form>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="c-togle__menu">
+                                <button type="button" class="menu_icon__open">
+                                    <span></span> <span></span> <span></span>
+                                </button>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="mobile-menu off-canvas">
+    <div class="close-nav">
+        <button class="menu_icon__close">
+            <span></span> <span></span>
+        </button>
+    </div>
+
+            <div class="c-modal_item">
+            <!-- Button trigger modal -->
+            <span class="c-modal_sign-in">
+                <a href="#" data-toggle="modal" data-target="#form-login"
+                   class="btn-active-modal">Đăng Nhập</a>
+            </span>
+
+            <span class="c-modal_sign-up">
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up"
+                   class="btn-active-modal">Đăng Kí</a>
+            </span>
+
+        </div>
+    
+    <nav class="off-menu">
+        <ul id="menu-main-menu-1" class="nav navbar-nav main-navbar">
+            <li>
+                <a href="https://sayhentai.fun/genre" class="menu-link  main-menu-link"> Thể Loại </a>
+            </li>
+            <li>
+                <a href="https://sayhentai.fun/completed" class="menu-link  main-menu-link"> Hoàn Thành </a>
+            </li>
+            <li>
+                <a href="https://sayhentai.fun/history" class="menu-link  main-menu-link"> Lịch Sử </a>
+            </li>
+
+            <li>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#form-login">Đang theo dõi</a>
+                            </li>
+        </ul>
+    </nav>
+</div>
+
+    <div class="sub-header-nav with-border">
+        <div class="container">
+            <div class="sub-nav_content">
+                <ul class="sub-nav_list list-inline second-menu">
+                    <li>
+                        <a href="https://sayhentai.fun/genre/manhwa">Manhwa</a>
+                    </li>
+                    <li>
+                        <a href="https://phetruyen.net" target="_blank" style="color: red" title="Đọc truyện tranh online">Phê Truyện</a>
+                    </li>
+                    <li>
+                        <a href="https://manhwahub.net" target="_blank" style="color: #0880e8">RAW</a>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="c-modal_item">
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#form-login"
+                        class="btn-active-modal">Đăng Nhập</a>
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#form-sign-up"
+                        class="btn-active-modal">Đăng Kí</a>
+                            </div>
+        </div>
+    </div>
+
+</header>
+    <div class="site-content">
+        <div class="c-breadcrumb-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ol class="breadcrumb">
+                            <li>
+                                <a href="https://sayhentai.fun">
+                                    Trang Chủ </a>
+                            </li>
+                            <li>
+                                <a href="https://sayhentai.fun/genre/manhwa">Manhwa</a>
+                            </li>
+                        </ol>
+                        <script type="application/ld+json">
+                            {
+                                "@context": "https://schema.org",
+                                "@type": "BreadcrumbList",
+                                "itemListElement": [{
+                                    "@type": "ListItem",
+                                    "position": 1,
+                                    "name": "Trang Chủ",
+                                    "item": "https://sayhentai.fun"
+                                    },{
+                                    "@type": "ListItem",
+                                    "position": 2,
+                                    "name": "Manhwa",
+                                    "item": "https://sayhentai.fun/genre/manhwa"
+                                    }
+                                ]
+                            }
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="page-category">
+            <div class="container">
+                <div class="row ">
+                    <div class="main-col col-md-8 col-sm-8">
+                        <!-- container & no-sidebar-->
+                        <div class="main-col-inner">
+                            <div class="c-page">
+                                <div class="entry-header">
+                                    <div class="entry-header_wrap">
+                                        <div class="entry-title">
+                                            <h1 class="item-title h4">Manhwa</h1>
+                                                                                            <p>Manhwa are comics or graphic novels originating from Korea</p>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                <!-- <div class="c-page__inner"> -->
+                                <div class="c-page__content">
+                                    <div class="tab-wrap">
+                                        <div class="c-blog__heading style-2 font-heading">
+                                            <div class="h4">
+                                                <i class="icon ion-md-star"></i>
+                                                Manhwa webtoon
+                                            </div>
+                                            <div class="c-nav-tabs">
+                                                <span> Xắp xếp </span>
+                                                <ul class="c-tabs-content">
+                                                                                                        <li class="active"><a href="?m_orderby=latest">Mới Nhất </a></li>
+                                                    <li class=""><a href=" ?m_orderby=rating">Đánh giá cao </a></li>
+                                                    <li class=""><a href=" ?m_orderby=views">Xem Nhiều </a></li>
+                                                    <li ><a href=" ?m_orderby=new">Mới </a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Tab panes -->
+                                    <div class="tab-content-wrap">
+                                        <div class="listing row px-2">
+                                                                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-thuan-hoa-ac-nu-tieu-thu.html" title="Thuần hóa ác nữ tiểu thư">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/thuan-hoa-ac-nu-tieu-thu.jpg"
+                                                                    alt="Thuần hóa ác nữ tiểu thư">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-thuan-hoa-ac-nu-tieu-thu.html">Thuần hóa ác nữ tiểu thư</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-thuan-hoa-ac-nu-tieu-thu/chuong-3" class="btn-link"> Chapter 3 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-bi-mat-biet-thu-hyeonjung.html" title="Bí Mật Biệt Thự Hyeonjung">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/63f7a213b9ba3hyeonjungs-residencem.jpg"
+                                                                    alt="Bí Mật Biệt Thự Hyeonjung">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-bi-mat-biet-thu-hyeonjung.html">Bí Mật Biệt Thự Hyeonjung</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-bi-mat-biet-thu-hyeonjung/chuong-52" class="btn-link"> Chapter 52 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-nguoi-giup-viec.html" title="Người Giúp Việc">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/645a32da0ec97young-housemaidm.jpg"
+                                                                    alt="Người Giúp Việc">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-nguoi-giup-viec.html">Người Giúp Việc</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-nguoi-giup-viec/chuong-45" class="btn-link"> Chapter 45 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-he-thong-succubus.html" title="Hệ Thống Succubus">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/he-thong-succubus.jpg"
+                                                                    alt="Hệ Thống Succubus">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-he-thong-succubus.html">Hệ Thống Succubus</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-he-thong-succubus/chuong-43" class="btn-link"> Chapter 43 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-toi-nay-cung-muon-an-gi.html" title="Tối Nay Cưng Muốn Ăn Gì?">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/621e10c02a3ecScreenshot_20220301-192427_Chrome-compressed.jpg"
+                                                                    alt="Tối Nay Cưng Muốn Ăn Gì?">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-toi-nay-cung-muon-an-gi.html">Tối Nay Cưng Muốn Ăn Gì?</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-toi-nay-cung-muon-an-gi/chuong-97" class="btn-link"> Chapter 97 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-bat-nat-o-truong-trung-hoc.html" title="Bắt Nạt Ở Trường Trung Học">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/60b8f0c25b39241033d44227bb47a16f.jpg"
+                                                                    alt="Bắt Nạt Ở Trường Trung Học">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-bat-nat-o-truong-trung-hoc.html">Bắt Nạt Ở Trường Trung Học</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-bat-nat-o-truong-trung-hoc/chuong-146" class="btn-link"> Chapter 146 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-sap-bay.html" title="Sập Bẫy">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/63e2fa894ce5fanh bia.jpg"
+                                                                    alt="Sập Bẫy">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-sap-bay.html">Sập Bẫy</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-sap-bay/chuong-43" class="btn-link"> Chapter 43 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-nguoi-ngoai-cuoc-vo-hinh.html" title="Người ngoài cuộc : Vô Hình">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/657f9852135fd657f37a33a888_3oeDySHa_72a21a862ddc27e764a2fc3894a5fe4bbdfef432.png"
+                                                                    alt="Người ngoài cuộc : Vô Hình">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-nguoi-ngoai-cuoc-vo-hinh.html">Người ngoài cuộc : Vô Hình</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-nguoi-ngoai-cuoc-vo-hinh/chuong-2" class="btn-link"> Chapter 2 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ta-la-giao-chu-cuong-giao.html" title="Ta Là Giáo Chủ Cuồng Giáo">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/6557b10f1db4b6959.jpg"
+                                                                    alt="Ta Là Giáo Chủ Cuồng Giáo">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ta-la-giao-chu-cuong-giao.html">Ta Là Giáo Chủ Cuồng Giáo</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ta-la-giao-chu-cuong-giao/chuong-10" class="btn-link"> Chapter 10 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">6 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-lop-hoc-gia-dinh-069.html" title="Lớp Học Gia Đình">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/lop-hoc-gia-dinh.png"
+                                                                    alt="Lớp Học Gia Đình">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-lop-hoc-gia-dinh-069.html">Lớp Học Gia Đình</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-lop-hoc-gia-dinh-069/chuong-200" class="btn-link"> Chapter 200 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">15 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-an-me-truoc.html" title="Ăn Mẹ Trước">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64b67e593f1bfgo-ahead-momm.jpg"
+                                                                    alt="Ăn Mẹ Trước">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-an-me-truoc.html">Ăn Mẹ Trước</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-an-me-truoc/chuong-23" class="btn-link"> Chapter 23 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">20 giờ trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-quan-cafe-thien-duong.html" title="Quán Cafe Thiên Đường">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/6273c4ebbeb4bwelcome-to-kids-cafem.jpg"
+                                                                    alt="Quán Cafe Thiên Đường">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-quan-cafe-thien-duong.html">Quán Cafe Thiên Đường</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-quan-cafe-thien-duong/chuong-86" class="btn-link"> Chapter 86 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-nghien-choi-me-ke.html" title="Nghiện Chơi Mẹ Kế">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64c3492cd99c4truyen-nghien-choi-me-ke.webp"
+                                                                    alt="Nghiện Chơi Mẹ Kế">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-nghien-choi-me-ke.html">Nghiện Chơi Mẹ Kế</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-nghien-choi-me-ke/chuong-21" class="btn-link"> Chapter 21 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-vong-du-quay-dinh-menh.html" title="Vòng Đu Quay Định Mệnh">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64f7003c04486destiny-landm.jpg"
+                                                                    alt="Vòng Đu Quay Định Mệnh">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-vong-du-quay-dinh-menh.html">Vòng Đu Quay Định Mệnh</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-vong-du-quay-dinh-menh/chuong-20" class="btn-link"> Chapter 20 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-king-of-the-night.html" title="King Of The Night">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/61bb665ccc145Screenshot_20211216-231532_Chrome-compressed.jpg"
+                                                                    alt="King Of The Night">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-king-of-the-night.html">King Of The Night</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-king-of-the-night/chuong-92" class="btn-link"> Chapter 92 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-song-am-thao-tung.html" title="Sóng Âm Thao Túng">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/653d39329420dtruyen-song-am-thao-tung.webp"
+                                                                    alt="Sóng Âm Thao Túng">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-song-am-thao-tung.html">Sóng Âm Thao Túng</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-song-am-thao-tung/chuong-15" class="btn-link"> Chapter 15 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-nguoi-tinh-cua-em.html" title="Người Tình Của Em">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/6577080330536you-are-my-xxm.jpg"
+                                                                    alt="Người Tình Của Em">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-nguoi-tinh-cua-em.html">Người Tình Của Em</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-nguoi-tinh-cua-em/chuong-9" class="btn-link"> Chapter 9 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">1 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ong-chua.html" title="Ong Chúa">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/68ae21dbc2b6ef2cae4a03272ad54122.jpg"
+                                                                    alt="Ong Chúa">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ong-chua.html">Ong Chúa</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ong-chua/chuong-298" class="btn-link"> Chapter 298 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">2 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-phai-ngu-voi-nguoi-la.html" title="Phải Ngủ Với Người Lạ">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/phai-ngu-voi-nguoi-la.jpg"
+                                                                    alt="Phải Ngủ Với Người Lạ">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-phai-ngu-voi-nguoi-la.html">Phải Ngủ Với Người Lạ</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-phai-ngu-voi-nguoi-la/chuong-27" class="btn-link"> Chapter 27 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">2 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-chinh-phat-milf-o-the-gioi-khac.html" title="Chinh Phạt MILF Ở Thế Giới Khác">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/chinh-phat-milf-o-the-gioi-khac.jpg"
+                                                                    alt="Chinh Phạt MILF Ở Thế Giới Khác">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-chinh-phat-milf-o-the-gioi-khac.html">Chinh Phạt MILF Ở Thế Giới Khác</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-chinh-phat-milf-o-the-gioi-khac/chuong-29" class="btn-link"> Chapter 29 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">2 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-co-vo-ngoai-tinh.html" title="Cô vợ ngoại tình">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/co-vo-ngoai-tinh.jpg"
+                                                                    alt="Cô vợ ngoại tình">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-co-vo-ngoai-tinh.html">Cô vợ ngoại tình</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-co-vo-ngoai-tinh/chuong-22" class="btn-link"> Chapter 22 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">2 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ban-cua-con-gai-toi.html" title="Bạn của con gái tôi">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/ban-cua-con-gai-toi.png"
+                                                                    alt="Bạn của con gái tôi">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ban-cua-con-gai-toi.html">Bạn của con gái tôi</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ban-cua-con-gai-toi/chuong-110" class="btn-link"> Chapter 110 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">2 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ung-dung-cau-duoc-uoc-thay.html" title="Ứng Dụng Cầu Được Ước Thấy">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/645247f96ff53image_2022-03-14_160237.webp"
+                                                                    alt="Ứng Dụng Cầu Được Ước Thấy">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ung-dung-cau-duoc-uoc-thay.html">Ứng Dụng Cầu Được Ước Thấy</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ung-dung-cau-duoc-uoc-thay/chuong-87" class="btn-link"> Chapter 87 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-bi-mat-cua-gia-toc-chaebol-doi-thu-ba.html" title="Bí Mật Của Gia Tộc Chaebol Đời Thứ Ba">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/6458cdd59a006the-secret-affairs-of-the-3rd-generation-chaebolm.jpg"
+                                                                    alt="Bí Mật Của Gia Tộc Chaebol Đời Thứ Ba">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-bi-mat-cua-gia-toc-chaebol-doi-thu-ba.html">Bí Mật Của Gia Tộc Chaebol Đời Thứ Ba</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-bi-mat-cua-gia-toc-chaebol-doi-thu-ba/chuong-33" class="btn-link"> Chapter 33 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-giu-bi-mat-voi-me-em-nhe.html" title="Giữ bí mật với mẹ em nhé!">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/63ff4884d318018.jpg"
+                                                                    alt="Giữ bí mật với mẹ em nhé!">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-giu-bi-mat-voi-me-em-nhe.html">Giữ bí mật với mẹ em nhé!</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-giu-bi-mat-voi-me-em-nhe/chuong-100" class="btn-link"> Chapter 100 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-so-mui-vo-nguoi-khac.html" title="Sơ múi vợ người khác">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/so-mui-vo-nguoi-khac.jpg"
+                                                                    alt="Sơ múi vợ người khác">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-so-mui-vo-nguoi-khac.html">Sơ múi vợ người khác</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-so-mui-vo-nguoi-khac/chuong-2" class="btn-link"> Chapter 2 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-cuoc-song-voi-gai-gu-thoi-dai-hoc.html" title="Cuộc sống với gái gú thời đại học">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/cuoc-song-voi-gai-gu-thoi-dai-hoc.jpg"
+                                                                    alt="Cuộc sống với gái gú thời đại học">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-cuoc-song-voi-gai-gu-thoi-dai-hoc.html">Cuộc sống với gái gú thời đại học</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-cuoc-song-voi-gai-gu-thoi-dai-hoc/chuong-2" class="btn-link"> Chapter 2 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-vong-xoay-chi-em.html" title="Vòng xoáy chị em">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/61e25acd2da5dvong-xoay-chi-em.jpg"
+                                                                    alt="Vòng xoáy chị em">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-vong-xoay-chi-em.html">Vòng xoáy chị em</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-vong-xoay-chi-em/chuong-142" class="btn-link"> Chapter 142 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-sinh-ton-tren-dao-hoang-cung-me-yeu.html" title="Sinh Tồn Trên Đảo Hoang Cùng Mẹ Yêu">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64c374ed8006emother-son-island-survivalm.jpg"
+                                                                    alt="Sinh Tồn Trên Đảo Hoang Cùng Mẹ Yêu">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-sinh-ton-tren-dao-hoang-cung-me-yeu.html">Sinh Tồn Trên Đảo Hoang Cùng Mẹ Yêu</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-sinh-ton-tren-dao-hoang-cung-me-yeu/chuong-24" class="btn-link"> Chapter 24 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-thue-bang-phim-heo.html" title="Thuê Băng Phim Heo">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/cau-chuyen-cho-thue-bang-18.jpg"
+                                                                    alt="Thuê Băng Phim Heo">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-thue-bang-phim-heo.html">Thuê Băng Phim Heo</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-thue-bang-phim-heo/chuong-63" class="btn-link"> Chapter 63 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ke-tu-hom-nay-bias-cua-toi-la.html" title="Kể từ hôm nay, bias của tôi là...">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64e9b4a7aadf0Untitled.png"
+                                                                    alt="Kể từ hôm nay, bias của tôi là...">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ke-tu-hom-nay-bias-cua-toi-la.html">Kể từ hôm nay, bias của tôi là...</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ke-tu-hom-nay-bias-cua-toi-la/chuong-25" class="btn-link"> Chapter 25 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">3 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-den-me-vo-cung-phai-chieu-theo-y-anh.html" title="Đến Mẹ Vợ Cũng Phải Chiều Theo Ý Anh">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/655ecefe013d0truyen-den-me-vo-cung-phai-chieu-theo-y-anh.jpg"
+                                                                    alt="Đến Mẹ Vợ Cũng Phải Chiều Theo Ý Anh">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-den-me-vo-cung-phai-chieu-theo-y-anh.html">Đến Mẹ Vợ Cũng Phải Chiều Theo Ý Anh</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-den-me-vo-cung-phai-chieu-theo-y-anh/chuong-10" class="btn-link"> Chapter 10 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-bug-game-so-huong.html" title="Bug Game Số Hưởng">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64fd13c968e00truyen-bug-game-so-huong.webp"
+                                                                    alt="Bug Game Số Hưởng">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-bug-game-so-huong.html">Bug Game Số Hưởng</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-bug-game-so-huong/chuong-18" class="btn-link"> Chapter 18 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-rang-buoc-than-the.html" title="Ràng buộc thân thể">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/rang-buoc-than-the.jpg"
+                                                                    alt="Ràng buộc thân thể">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-rang-buoc-than-the.html">Ràng buộc thân thể</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-rang-buoc-than-the/chuong-31" class="btn-link"> Chapter 31 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-so-yeu-ly-lich.html" title="Sơ Yếu Lý Lịch">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/64038fce3dca8resumem.jpg"
+                                                                    alt="Sơ Yếu Lý Lịch">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-so-yeu-ly-lich.html">Sơ Yếu Lý Lịch</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-so-yeu-ly-lich/chuong-39" class="btn-link"> Chapter 39 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-chi-dau-co-don.html" title="Chị dâu cô đơn">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/chi-dau-co-don.jpg"
+                                                                    alt="Chị dâu cô đơn">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-chi-dau-co-don.html">Chị dâu cô đơn</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-chi-dau-co-don/chuong-28" class="btn-link"> Chapter 28 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-uoc-co-ban-chich.html" title="Ước có bạn chịch">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/uoc-co-ban-chich.jpg"
+                                                                    alt="Ước có bạn chịch">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-uoc-co-ban-chich.html">Ước có bạn chịch</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-uoc-co-ban-chich/chuong-26" class="btn-link"> Chapter 26 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-ba-chi-chu-nha.html" title="Bà Chị Chủ Nhà">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/6468559100ff589bbdb466681ebda6ff0be716d30f612.webp"
+                                                                    alt="Bà Chị Chủ Nhà">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-ba-chi-chu-nha.html">Bà Chị Chủ Nhà</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-ba-chi-chu-nha/chuong-121" class="btn-link"> Chapter 121 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-tieu-thu.html" title="Tiểu Thư">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/tieu-thu.jpg"
+                                                                    alt="Tiểu Thư">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-tieu-thu.html">Tiểu Thư</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-tieu-thu/chuong-81" class="btn-link"> Chapter 81 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="col-6 col-md-4 col-lg-3 badge-pos-1 px-2">
+                                                    <div class="page-item-detail">
+                                                        <div class="item-thumb hover-details c-image-hover">
+                                                            <a href="https://sayhentai.fun/truyen-chon-me-hay-chi-gai.html" title="Chọn Mẹ Hay Chị Gái">
+                                                                <img class="img-responsive" src="https://sayhentai.fun/storage/images/cover/652ad404efb4fIs-It-Your-Mother-or-Sister-toptoon-manhwa-free-224x320.jpeg"
+                                                                    alt="Chọn Mẹ Hay Chị Gái">
+                                                            </a>
+                                                        </div>
+                                                        <div class="item-summary">
+                                                            <div class="post-title font-title">
+                                                                <h3 class="line-2">
+                                                                    <a href="https://sayhentai.fun/truyen-chon-me-hay-chi-gai.html">Chọn Mẹ Hay Chị Gái</a>
+                                                                </h3>
+                                                            </div>
+                                                            <div class="list-chapter">
+                                                                <div class="chapter-item ">
+                                                                    <span class="chapter font-meta">
+                                                                            <a href="https://sayhentai.fun/truyen-chon-me-hay-chi-gai/chuong-14" class="btn-link"> Chapter 14 </a>
+                                                                    </span>
+                                                                    <span class="post-on font-meta">4 ngày trước</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                </div>
+                                        <br/>
+                                        <br/>
+                                        <ul class="pager">
+        
+                    <li class="disabled"><span>«</span></li>
+        
+        
+                                                        <li class="active"><span>1</span></li>
+                                                                                    <li><a href="https://sayhentai.fun/genre/manhwa?page=2">2</a></li>
+                                                                                    <li><a href="https://sayhentai.fun/genre/manhwa?page=3">3</a></li>
+                                                                                                                                                                                                                                                                                                                                                                    <li><span>...</span></li>
+                            <li class="hidden-xs"><a href="https://sayhentai.fun/genre/manhwa?page=18">18</a></li>
+        
+        
+                    <li><a href="https://sayhentai.fun/genre/manhwa?page=2" rel="next">»</a></li>
+            </ul>
+
+                                        <br/>
+                                        <br/>
+                                    </div>
+                                </div>
+                                <!-- </div> -->
+                            </div>
+                            <!-- paging -->
+                        </div>
+
+
+                    </div>
+                    <div class="sidebar-col col-md-4 col-sm-4">
+                        <div class="popular">
+    <div class="widget-heading">
+        <h5 class="heading">Truyện Hot</h5>
+    </div>
+    <div class="widget-content">
+        
+        <a class="widget-view-more" href="#">Xem Thêm Nhiều Truyện</a>
+
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="ads_popup hidden-ads">
+</div>
+
+<style>
+    .hidden-ads {
+        display: none;
+    }
+    .popup_align {
+        display: inline-block;
+        vertical-align: middle;
+        height: 100%;
+    }
+    .popup_background {
+        opacity: 0.7;
+        visibility: visible;
+        background-color: black;
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        z-index: 1111111;
+    }
+    .popup_wrapper {
+        opacity: 1;
+        visibility: visible;
+        position: fixed;
+        overflow: auto;
+        z-index: 1111111;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        text-align:
+        center;
+        display: block;
+    }
+    #image_popup {
+        display:
+        inline-block;
+        opacity: 1;
+        visibility: visible;
+        text-align: left;
+        position: relative;
+        vertical-align: middle;
+    }
+    .popup_close {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        cursor: pointer;
+        color: #fff;
+        height: 4px;
+        border: 1px solid #aeaeae;
+        border-radius: 30px;
+        background: #605f61;
+        font-size: 31px;
+        font-weight: 700;
+        display: inline-block;
+        line-height: 0;
+        padding: 13px 7px;
+    }
+    .popup_close:before {
+        content: "×";
+    }
+</style>
+    <div class="catfish">
+    <div class="cat1 hidden-ads">
+    </div>
+    <div class="cat2 hidden-ads">
+    </div>
+</div>
+<style>
+
+    .catfish {
+        top: auto !important;
+        display: block;
+        position: fixed;
+        z-index: 2;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        max-width: 728px;
+        margin: auto;
+    }
+
+    .catfish .cat1, .catfish .cat2 {
+        position: relative;
+        max-width: 100% !important;
+    }
+
+    .catfish .cat1 .close-box, .catfish .cat2 .close-box {
+        position: absolute;
+        right: 0;
+        top: -20px;
+        background: white;
+        padding: 3px 3px;
+    }
+    .catfish-mb {
+        display: none;
+    }
+    .hidden-ads {
+            display: none;
+        }
+    @media (max-width: 992px) {
+        .catfish-mb {
+            display: block;
+        }
+    }
+</style>
+<footer class="site-footer">
+    <div class="bottom-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="nav-footer">
+                        <ul class="list-inline">
+                            <li><a href="https://sayhentai.fun/privacy-policy">Điều Khoản</a></li>
+                            <li><a href="https://sayhentai.fun/tos">Chính Sách</a></li>
+                            <li><a href="https://sayhentai.fun/contact-us">Liên lạc</a></li>
+                        </ul>
+                    </div>
+                    <div class="copyright">
+                        <p>© 2021 <a href="https://sayhentai.fun">SayHentai, </a><a href="/cdn-cgi/l/email-protection#9abae9fbe3eee8efe3fff4dafdf7fbf3f6b4f9f5f7">Mail to ads <span class="__cf_email__" data-cfemail="4b382a323f393e322e250b2c262a222765282426">[email&#160;protected]</span></a> All rights reserved</p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.vipads.live/vn/C8D2C55C-A6DB-217-33-A3D665C780C0.blpha"></script>
+
+
+    <!-- Modal -->
+<div class="wp-manga-section">
+    <input type="hidden" name="bookmarking" value="0">
+    <div class="modal fade" id="form-login" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="login" class="login">
+                        <h3>
+                            <a href="https://sayhentai.fun" title="VipToon" tabindex="-1">Đăng Nhập</a>
+                        </h3>
+                        <p class="message login"></p>
+                        <meta name="robots" content="max-image-preview:large">
+                        <link rel="dns-prefetch" href="https://s.w.org/">
+
+                        <form name="loginform" id="loginform" method="post">
+                            <p>
+                                <label>Email * <br> <input type="text" name="log"
+                                                                               class="input user_login" value=""
+                                                                               size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>Mật Khẩu * <br> <input type="password" autocomplete="" name="pwd"
+                                                              class="input user_pass" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+                            </p>
+                            <p class="forgetmenot">
+                                <label>
+                                    <input name="rememberme" type="checkbox" id="rememberme" value="forever">Nhớ thông tin
+                                </label>
+                            </p>
+                            <input hidden id="login_url" value="https://sayhentai.fun/user/login">
+                            <input hidden id="register_url" value="https://sayhentai.fun/user/register">
+                            <input hidden id="reset_url" value="https://sayhentai.fun/admin/password/email">
+                            <p class="submit">
+                                <input type="submit" name="wp-submit"
+                                       class="button button-primary button-large wp-submit" value="Log In">
+                                <input type="hidden" name="testcookie" value="1">
+                            </p>
+                        </form>
+                        <p class="nav">
+                            <a href="javascript:void(0)" class="to-reset">Quên Mật Khẩu?</a>
+                        </p>
+                        <p class="backtoblog">
+                            <a href="javascript:void(0)">← Quay lại trang chủ</a>
+                        </p>
+                        <p>Or Sign in with Google</p>
+                        <a href="https://sayhentai.fun/auth/google">
+                            <img src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png" style="margin-left: 3em;">
+                        </a>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="form-sign-up" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="sign-up" class="login">
+                        <h3>
+                            <a href="https://sayhentai.fun" title="VipToon" tabindex="-1">Đăng Kí</a>
+                        </h3>
+                        <p class="message register">Đăng Kí Sử Dụng</p>
+                        <form name="registerform" id="registerform" novalidate="novalidate">
+
+                            <p>
+                                <label>Tên Đăng Nhập * <br>
+                                    <input type="text" name="user_sign-up" class="input user_login" value="" size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>Email Địa Chỉ * <br>
+                                    <input type="email" name="email_sign-up" class="input user_email" value=""
+                                           size="20">
+                                </label>
+                            </p>
+                            <p>
+                                <label>Mật Khẩu *<br>
+                                    <input type="password" name="pass_sign-up" autocomplete="" class="input user_pass"
+                                           value="" size="25">
+                                </label>
+                            </p>
+                            <p>
+                            </p>
+
+                            <input type="hidden" name="redirect_to" value="">
+                            <p class="submit">
+                                <input type="submit" name="wp-submit"
+                                       class="button button-primary button-large wp-submit" value="Register">
+                            </p>
+                        </form>
+                        <p class="nav">
+                            <a href="javascript:void(0)" class="to-login">Đăng Nhập</a>
+                            |
+                            <a href="javascript:void(0)" class="to-reset">Quên Mật Khẩu?</a>
+                        </p>
+                        <p class="backtoblog">
+                            <a href="javascript:void(0)">← Quay lại trang chủ</a>
+                        </p>
+                        <p>Or Sign in with Google</p>
+                        <a href="https://sayhentai.fun/auth/google">
+                            <img src="https://developers.google.com/identity/images/btn_google_signin_dark_normal_web.png" style="margin-left: 3em;">
+                        </a>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="form-reset" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="reset" class="login">
+                        <h3>
+                            <a href="javascript:void(0)" class="to-reset">Quên Mật Khẩu?</a>
+                        </h3>
+                        <p class="message reset">Vui lòng nhập email của bạn, bạn sẽ nhận một link qua email để cài đặt lại password</p>
+                        <form name="resetform" id="resetform" method="post">
+                            <p>
+                                <label>Tên Đăng Nhập Hoặc Email Địa Chỉ <br>
+                                    <input type="text" name="user_reset" id="user_reset" class="input" value=""
+                                           size="20">
+                                </label>
+                            </p>
+                            <p class="submit">
+                                <input type="submit" name="wp-submit"
+                                       class="button button-primary button-large wp-submit" value="Get New Password">
+                                <input type="hidden" name="testcookie" value="1">
+                            </p>
+                        </form>
+                        <p>
+                            <a class="backtoblog" href="javascript:void(0)">← Quay lại trang chủ</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="form-report" tabindex="-1" role="dialog" >
+        <div class="modal-dialog" role="document">
+            <div class="modal-content" style="padding: 40px 20px;">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    <div id="reset" class="login message">
+                        <h5>
+                            <p class="text-center" style="color: #000; font-size:20px">Cảm ơn bạn đã hỗ trợ báo lỗi, truyện sẽ được fix trong thời gian sớm nhất</p>
+                        </h5>
+                        <select class="form-control type-report" style="color: #3a3a3a">
+                            <option value="-1" rel="">--Vui lòng chọn loại lỗi--</option>
+                            <option value="1" rel="Ảnh tải lâu hay lỗi toàn bộ ảnh?">Ảnh lỗi, không thấy ảnh</option>
+                            <option value="2" rel="Trùng với chapter mấy?">Chapter bị trùng</option>
+                            <option value="3" rel="Chưa dịch toàn bộ hay vài trang chưa dịch?">Chapter chưa được dịch</option>
+                            <option value="4" rel="Chapter không phải truyện này?">Up nhầm truyện</option>
+                            <option value="0" rel="Up thiếu ảnh, lộn xộn, quảng cáo gây khó chịu hay comment spam...?">Lỗi khác</option>
+                            </select>
+                        <p class="submit" style="margin-top: 15px; ">
+                            <input type="submit" name="wp-submit"
+                                    class="button button-primary button-large wp-report wp-submit" value="send">
+                            <input type="hidden" name="testcookie" value="1">
+                        </p>
+                    </div>
+                </div>
+                <div class="modal-footer"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<input type="hidden" name="_token" id="token" value="wp3orvatp6TZfh7JkZ0mMVME7K2ZKz8kXlcMpV6x">
+
+<script>
+    let base_url = "https://sayhentai.fun";
+    let label_button_no_more = "Hết hàng rồi bạn ơi !!!!";
+    let show_more = "Xem thêm";
+</script>
+
+<script type="text/javascript" src="/assets/js/all.js?id=2fc088a7ad978419a655e9c3377f7e81"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script type="text/javascript" defer src="/assets/js/ads.js?id=0203d86912b9acc8f39783656a7fbe6a"></script>
+<script src="sw.js?v=2"></script>
+
+<script>
+    if (!navigator.serviceWorker.controller) {
+        navigator.serviceWorker.register("/sw.js").then(function (reg) {
+            console.log("Service worker has been registered for scope: " + reg.scope);
+        });
+    }
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'83805d432c150444',t:'MTcwMjk5NjQ0NC45NTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
